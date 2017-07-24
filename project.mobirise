@@ -109,7 +109,6 @@
           },
           "logo": {
             "image": {
-              "active": true,
               "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
@@ -117,8 +116,13 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "sun",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#f7da64",
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Valentin IT Service</a>",
@@ -132,7 +136,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -148,7 +152,7 @@
             "showButtons": true
           },
           "title": "Einfach gut.",
-          "text": "PC's machen unser Leben einfacher und besser. Beispielsweise wenn es darum geht, Fotos und Videos zu verschicken oder mit Freunden in Kontakt zu bleiben. Auch alltägliche Aufgaben werden schneller erledigt, sei es den Kontoauszug zu ziehen oder ein Ticket zu buchen. Und wenn das (noch) nicht so funktioniert, haben Sie mich. Ich bin da, wenn Ihr PC mal streikt. Ich bin auch kurzfristig verfügbar, höchstens aber in 24 Std. Versprochen!<br>",
+          "text": "PC's machen unser Leben einfacher und besser. Beispielsweise wenn es darum geht, Fotos und Videos zu verschicken oder mit Freunden in Kontakt zu bleiben. Auch alltägliche Aufgaben werden schneller erledigt, sei es den Kontoauszug zu ziehen oder ein Ticket zu buchen. Falls ausnahmsweise etwas nicht so funktioniert, rufen Sie mich an. Ich bin da, wenn Ihr PC mal streikt. Auch kurzfristig, auf jeden Fall unter 24 Std. Versprochen!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">sos@valentinmüller.de</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">0176-49 811 311</a>"
         },
         {
